@@ -1,6 +1,6 @@
 # BetterLinks
 
-**BetterLinks** is a modern, customizable, and privacy-focused alternative to [Linktree]([url](https://linkinbiotools.com/linktree/)). It lets you create a single landing page to showcase all your important links — whether you're a creator, brand, or business.
+**BetterLinks** is a modern, customizable, and privacy-focused alternative to [Linktree](https://linkinbiotools.com/linktree/). It lets you create a single landing page to showcase all your important links — whether you're a creator, brand, or business.
 
 ## 🚀 Features
 
